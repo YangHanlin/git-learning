@@ -60,18 +60,22 @@ The effects are as below:
 Add a `>` to a paragraph to make it a quote.
 
 ``````markdown
-> To be or not to be, that is a question.
+> To be or not to be, that is a question.  
 > *Hemlet*, Shakespeare
 ``````
 
 The effects are as below:
 
-> To be or not to be, that is a question.
+> To be or not to be, that is a question.  
 > *Hemlet*, Shakespeare
 
 #### Sections and Blocks of Code
 
-Add **`** to a section of text to make it a section of `code`.
+``````
+`
+``````
+
+Add the character above to a section of text to make it a section of `code`.
 
 ``````markdown
 `code`
@@ -81,7 +85,7 @@ The effects are as below:
 
 `code`
 
-Use six **`**s in a line to mark a block of code. Use an (optional) word after the six **`**s to specify the language of the section of code.
+Use six characters of this in a line to mark a block of code. Use an (optional) word after the characters to specify the language of the section of code.
 
 ``````markdown
 ​``````markdown
