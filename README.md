@@ -41,7 +41,7 @@ The effects are as below:
 
 ###### Heading 6
 
-#### Sections of Text
+#### Format Applied to Sections of Text
 
 Add `**`s to a section of text to make it **bold**.
 
@@ -101,5 +101,66 @@ The effects are as below:
 ...
 ``````
 
-#### To be continued
+#### Lists
 
+In Markdown there are two types of lists: Ordered lists and unordered lists.
+
+##### Unordered Lists
+
+Put a symbol, which is usually `-`, before an item to make it an item in an unordered list.
+
+``````markdown
+- Item
+  - Item
+  - Item
+- Item
+  - Item
+  - Item
+- Item
+``````
+
+The effects are as below:
+
+- Item
+  - Item
+  - Item
+- Item
+  - Item
+  - Item
+- Item
+
+##### Ordered Lists
+
+Put a number and a dot (`.`) before an item to make it a item in an ordered list.
+
+**Note: The value of the number does not affect the value number before each item.**
+
+``````markdown
+1. Item 1
+2. Item 2
+   1. Item 1,1
+   2. Item 1.2
+3. Item 3
+
+
+
+2. Item 1
+0. Item 2
+9. Item 3
+``````
+
+The effects are as below:
+
+1. Item 1
+2. Item 2
+   1. Item 1.1
+   2. Item 1.2
+3. Item 3
+
+
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+#### To be continued
