@@ -1,1 +1,2 @@
-This is the test text in branch 'master'.
+This is the merged version of test/text.txt.
+
