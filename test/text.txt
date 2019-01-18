@@ -1,3 +1,2 @@
 This is the merged version of test/text.txt.
-
-
+This is the 'sub-branch' version of test/text.txt - for pull request.
