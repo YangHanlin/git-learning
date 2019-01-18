@@ -1,4 +1,4 @@
 This is the merged version of test/text.txt.
 This is the 'sub-branch' version of test/text.txt - for pull request.
-This is a new section of text to illustrate the difference between origin/master adn master.
+This is a new section of text to illustrate the difference between origin/master and master.
 This is a new section of text to illustrate origin master & master.
