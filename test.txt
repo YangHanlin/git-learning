@@ -1,3 +1,2 @@
 This is a simple test.
-This is a change of the file offline in the command prompt.
-This is a change of the file online in github.com.
+==HOTFIX==
