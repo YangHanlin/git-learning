@@ -2,6 +2,16 @@
 
 This acts as a final review for the learning of Git in the past several days.
 
+*Hard to remember the Git commands? Get a copy of **Git cheatsheet** [here](https://services.github.com/on-demand/resources/cheatsheets/).*
+
+*Also some shortcuts:*
+
+- *Git cheatsheet (English) [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet/)*
+- *Git cheatsheet (English, PDF) [here](https://services.github.com/on-demand/downloads/github-git-cheat-sheet.pdf)*
+- *Git cheatsheet (Chinese) [here](https://services.github.com/on-demand/downloads/zh_CN/github-git-cheat-sheet/)*
+
+*You can also get a version in this site that is an archive of the English PDF version (Jan. 19th, 2019) [here](resources/github-git-cheat-sheet.pdf).*
+
 ## Markdown
 
 The introduction of **Markdown** is taken from the brief introduction of Markdown in GitHub Pages, as below:
