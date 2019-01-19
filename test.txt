@@ -7,3 +7,4 @@ Testing trailing newlines
 Working in sub-branch
 Adding new things in master branch
 Testing format-patch
+Testing patching for sub-branch in master
