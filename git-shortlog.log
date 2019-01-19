@@ -1,0 +1,51 @@
+Yang Hanlin (6):
+      Update README.md
+      Update test.txt
+      Merge branch 'master' into sub-branch
+      Merge pull request #1 from YangHanlin/sub-branch
+      Update text.txt
+      Update text.txt
+
+YangHanlin (40):
+      Initial commit
+      Rename .README.md to README.md
+      Update README.md
+      Update README.md
+      Add .gitignore to test Ignore patterns
+      Update .gitignore
+      Add test.a and test.ao
+      Delete test.a and test.ao
+      Untrack .gitignore
+      Add .gitignore and test.o
+      Rename test.o to test.oa
+      Remove unused files
+      Add test.txt and test/text.txt
+      Update test.txt; test file collision
+      Solve the collision in test.txt
+      Create new branch 'sub-branch'
+      Update test.txt
+      Update test.txt in a hotfix
+      Solve the collision in test.txt between master and sub-branch
+      Update test.txt in branch 'sub-branch'
+      Merge branches 'master' and 'sub-branch'
+      Update test/text.txt in the branch 'sub-branch'
+      Solve the collision between branch 'master' and 'sub-branch'
+      Update test/text.txt in branch 'sub-branch' to practice a pull request.
+      Update test/text.txt
+      Update test/text.txt
+      Update test/text.txt
+      Update test/text.txt
+      Update test/text.txt in master branch
+      Update test.txt in sub-branch.
+      Update test/text/txt
+      Rename test/text.txt to test.txt
+      Test blank lines and trailing spaces
+      Delete trailing spaces and useless blank lines
+      Test the -u argument of git push
+      Update test.txt in master branch
+      Test format-patch and am
+      Test format patch between branches
+      Test format patch between branches
+      Merge branch 'sub-branch'
+
+v2.0-8-g65cddd8
