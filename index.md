@@ -2,7 +2,7 @@
 
 This acts as a final review for the learning of Git in the past several days.
 
-### Markdown
+## Markdown
 
 The introduction of **Markdown** is taken from the brief introduction of Markdown in GitHub Pages, as below:
 
@@ -28,4 +28,47 @@ Syntax highlighted code block
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
+## Useful Git Commands
+
+There are several useful Git commands.
+
+### Basic Commands
+
+`git init`: to initialize an empty Git repository,
+
+`git clone`: to clone a repository from the server to current directory.
+
+`git add`: add the specified contents to next commit.
+
+`git commit`: to create a commit.
+
+`git push`: to push commits to the server.
+
+`git pull`: to pull (possible) changes form the server.
+
+`git diff`: to work out the differences between versions.
+
+`git log`: to show the log of commits.
+
+### Branching
+
+`git branch`: to list all branches in the current repository,
+
+`git branch <branch>`: to locally create a new branch from its name given.
+
+`git checkout <branch>`: to check out to the branch specified.
+
+`git checkout -b <branch>`: to create a new branch with the name given and check out to the branch.
+
+`git push -u origin <branch>`: to publish the specified branch to the server.
+
+`git branch -d <branch>`: to delete a branch locally.
+
+`git push origin –delete <branch>`: to delete a branch in the server.
+
+### Interacting between Branches
+
+`git merge <branch>`: merge the specified branch into the current branch.
+
+`git rebase <branch>`: to rebase current branch onto the specified branch.
 
