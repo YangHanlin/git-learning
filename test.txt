@@ -5,3 +5,4 @@ This is the sub-branch version of test.txt.
 Testing trailing spaces
 Testing trailing newlines
 Working in sub-branch
+Adding new things in master branch
