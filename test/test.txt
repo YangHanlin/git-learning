@@ -1,9 +1,10 @@
-This is the merged version of test/text.txt.
-This is the 'sub-branch' version of test/text.txt - for pull request.
-This is a new section of text to illustrate the difference between origin/master and master.
-This is a new section of text to illustrate origin master & master.
-This is not one.
-This is an online modification.
-This is the master branch.
-This is the sub-branch.
-This is the sub-branch-2.
+This is a simple test.
+This is the change that is in the new branch 'sub-branch'
+This is another test.
+This is the sub-branch version of test.txt.
+Testing trailing spaces
+Testing trailing newlines
+Working in sub-branch
+Adding new things in master branch
+Testing format-patch
+Testing patching for sub-branch in master
