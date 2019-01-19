@@ -6,3 +6,4 @@ Testing trailing spaces
 Testing trailing newlines
 Working in sub-branch
 Adding new things in master branch
+Testing format-patch
