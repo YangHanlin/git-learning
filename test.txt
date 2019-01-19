@@ -2,6 +2,5 @@ This is a simple test.
 This is the change that is in the new branch 'sub-branch'
 This is another test.
 This is the sub-branch version of test.txt.
-Testing trailing spaces     
+Testing trailing spaces
 Testing trailing newlines
-
