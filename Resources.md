@@ -64,5 +64,5 @@
 
 `original`: <https://git-scm.com/download/win>
 
-`archive`: [here](resources/Git-2.20.1-64-bit.exe) (**2.20.1 for 64-bit Windows**, Dec, 17th, 2018)
+`archive`: [here](resources/Git-2.20.1-64-bit.exe) (**2.20.1 for 64-bit Windows**, Dec. 17th, 2018)
 
