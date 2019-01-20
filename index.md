@@ -4,7 +4,7 @@ This acts as a final review for the learning of Git in the past several days.
 
 *Hard to remember the Git commands? Get a copy of **Git cheatsheet** [here](https://services.github.com/on-demand/resources/cheatsheets/).*
 
-*More resources and their archive at this site [here](Resources,md).*
+*More resources and their archive at this site [here](Resources.md).*
 
 ## Markdown
 
