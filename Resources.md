@@ -38,7 +38,7 @@
 
 `original`: <https://github.com/progit/progit2/releases/download/2.1.105/progit.pdf>
 
-`archive`: [here](resources/progit.pdf) (jan. 5th, 2019)
+`archive`: [here](resources/progit.pdf) (Jan. 5th, 2019)
 
 #### Pro Git Book (Chinese)
 
@@ -50,7 +50,7 @@
 
 `original`: <https://github.com/progit/progit2-zh/releases/download/2.1.16/progit_v2.1.16.pdf>
 
-`archive`: [here](resources/progit_v2.1.16.pdf) (jan. 5th, 2019)
+`archive`: [here](resources/progit_v2.1.16.pdf) (Jan. 5th, 2019)
 
 ### Git Installer
 
