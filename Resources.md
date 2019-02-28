@@ -64,5 +64,5 @@
 
 `original`: <https://git-scm.com/download/win>
 
-`archive`: [here](resources/Git-2.20.1-64-bit.exe) (**2.20.1 for 64-bit Windows**, Dec. 17th, 2018)
+`archive`: *<b>Important</b> This site no longer provides archive for Git for Windows. Please refer to the [GitHub Navigation Page](https://github.com/waylau/git-for-win) or visit [Taobao NPM Mirror Index for Git for Windows](https://npm.taobao.org/mirrors/git-for-windows) directly.*
 
