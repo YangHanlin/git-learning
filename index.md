@@ -1,4 +1,8 @@
+<script async defer src="https://buttons.github.io/buttons.js"></script>
+
 ## Overview
+
+<a class="github-button" href="https://github.com/YangHanlin/git-learning" data-icon="octicon-star" data-size="large" data-show-count="true" aria-label="Star YangHanlin/git-learning on GitHub">Star</a>
 
 This acts as a final review for the learning of Git in the past several days.
 
